@@ -3,6 +3,7 @@
 Easy Form Validation is a JavaScript Library which makes form validation easy.
 
 The library functions returns a boolean value after validation. The functions can also be customized using an object parameter.
+
 <br>
 
 ## Use Case
