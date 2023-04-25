@@ -1,0 +1,23 @@
+{
+  "name": "@gokey/validate-form",
+  "version": "1.0.0",
+  "description": "A simple library to validate form inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GokulAbisheak/validate-form-npm-package.git"
+  },
+  "keywords": [
+    "Validate",
+    "Form"
+  ],
+  "author": "Gokul Abisheak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GokulAbisheak/validate-form-npm-package/issues"
+  },
+  "homepage": "https://github.com/GokulAbisheak/validate-form-npm-package#readme"
+}
