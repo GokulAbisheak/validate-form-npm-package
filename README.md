@@ -3,9 +3,12 @@
 Easy Form Validation is a JavaScript Library which makes form validation easy.
 
 The library functions returns a boolean value after validation. The functions can also be customized using an object parameter.
+<br>
 
 ## Use Case
 You need to validate the inputs.
+
+<br>
 
 ## Installation
 
@@ -14,6 +17,9 @@ You can install this library via NPM
 ```bash
 npm install easy-form-validation
 ```
+
+<br>
+
 ## Available Validation Methods
  
 | Function | Optional Parameter |
@@ -24,6 +30,8 @@ npm install easy-form-validation
 | `validateNumber` | Available |
 | `validateText` | N/A |
 | `validateURL` | N/A |
+
+<br>
 
 ## Optional Parameter
 
@@ -52,6 +60,9 @@ The optional parameter is an object which is passed as the 2nd parameter which c
 	max: value
 }
 ```
+
+<br>
+
 ## Importing
 **ES5**
 ```javascript
@@ -63,6 +74,8 @@ const { validateEmail, validatePassword, validateNotEmpty, validateNumber, valid
 ```javascript
 import { validateEmail, validatePassword, validateNotEmpty, validateNumber, validateText, validateURL } from 'easy-form-validation'
 ```
+
+<br>
 
 ## Example Usage
  **ES5**
